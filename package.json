@@ -1,0 +1,23 @@
+{
+  "name": "js-restauraunt-page",
+  "version": "1.0.0",
+  "description": "js-restauraunt-page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Felix316/js-restauraunt-page.git"
+  },
+  "author": "Felix316",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Felix316/js-restauraunt-page/issues"
+  },
+  "homepage": "https://github.com/Felix316/js-restauraunt-page#readme",
+  "devDependencies": {
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1"
+  }
+}
