@@ -1,4 +1,6 @@
-
+import loadHome from "./home";
+import loadMenu from "./menu";
+import loadContact from "./contact";
 
 
 
@@ -8,7 +10,7 @@ function createHeader() {
 
     const restaurauntName = document.createElement("h1");
     restaurauntName.classList.add("restauraunt-name");
-    restaurauntName.textContent = "Jersey Grills";
+    restaurauntName.textContent = "The BurgerSpot";
 
     header.appendChild(restaurauntName);
     header.appendChild(createNav());
